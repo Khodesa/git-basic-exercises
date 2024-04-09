@@ -1,3 +1,3 @@
-Typing from the command line.
+Typing from the text editor.
 
 This is the third commit.
